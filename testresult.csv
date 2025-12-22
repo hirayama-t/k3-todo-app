@@ -1,6 +1,7 @@
-テスト名,親スイート,結果
-TestAppコンポーネントが描画される,App.js,passed
-AppコンポーネントがStrictModeでラップされている,index.js,passed
-初期表示でバージョン情報が表示される,TestApp,passed
-タスク追加・未入力バリデーション,TestApp,passed
-タスク追加・完了・削除・フィルタ,TestApp,passed
+name,status,title
+C:\Users\hirayama\Documents\作業資料\GitHubCopilotセミナー\20_ソースコード\計測3回目\todo-app-main\src\testcase.test.js,passed,TestAppコンポーネントが描画される
+C:\Users\hirayama\Documents\作業資料\GitHubCopilotセミナー\20_ソースコード\計測3回目\todo-app-main\src\testcase.test.js,passed,AppコンポーネントがStrictModeでラップされている
+C:\Users\hirayama\Documents\作業資料\GitHubCopilotセミナー\20_ソースコード\計測3回目\todo-app-main\src\testcase.test.js,passed,初期表示でバージョン情報が表示される
+C:\Users\hirayama\Documents\作業資料\GitHubCopilotセミナー\20_ソースコード\計測3回目\todo-app-main\src\testcase.test.js,passed,タスク追加・未入力バリデーション
+C:\Users\hirayama\Documents\作業資料\GitHubCopilotセミナー\20_ソースコード\計測3回目\todo-app-main\src\testcase.test.js,passed,タスク追加・完了・削除・フィルタ
+C:\Users\hirayama\Documents\作業資料\GitHubCopilotセミナー\20_ソースコード\計測3回目\todo-app-main\src\testcase.test.js,passed,期日・優先度・重要フラグ付きタスクの追加・表示
