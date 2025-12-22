@@ -62,7 +62,7 @@ function TestApp() {
   const completedCount = tasks.filter((t) => t.completed).length;
 
   // バージョン情報を追加する
-  const version = "1.0.0";
+  const version = "1.0.1";
 
   return (
     <div className="container" style={{ maxWidth: 500, marginTop: 40 }}>

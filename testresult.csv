@@ -1,0 +1,6 @@
+テスト名,親スイート,結果
+TestAppコンポーネントが描画される,App.js,passed
+AppコンポーネントがStrictModeでラップされている,index.js,passed
+初期表示でバージョン情報が表示される,TestApp,passed
+タスク追加・未入力バリデーション,TestApp,passed
+タスク追加・完了・削除・フィルタ,TestApp,passed
