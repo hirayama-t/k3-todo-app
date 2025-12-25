@@ -82,8 +82,6 @@ function TestApp() {
     <div className="container" style={{ maxWidth: 500, marginTop: 40 }}>
       <div className="rounded-top" style={{ background: '#e3f2fd', padding: '24px 24px 12px 24px' }}>
         <h2 className="text-center mb-3">業務用Todo管理アプリ</h2>
-        {/* バージョン情報を追加する */}
-        <div className="text-center mb-3">バージョン: {version}</div>
         <form className="row g-2 mb-3" onSubmit={handleAddTask}>
           <div className="col-12 col-md-5">
             <input
